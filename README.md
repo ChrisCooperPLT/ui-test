@@ -8,7 +8,7 @@ The project has been setup with React and Typescript, along with a basic fetch t
 
 Using this base, the technical assignment is to create a cart page which will include:
 
-- a header, which includes the logo and a bag icon that has the total count
+- a header, which includes a logo and a bag icon that has the total count
 - a loading state view
 - an empty state view
 - the ability to increase/descrease/remove the qty of items in the bag (this functionality is provided by the hook)
@@ -29,4 +29,4 @@ We will be looking at:
 - the UI itself, html structure, responsiveness, accessibility etc
 
 
-Please don't spend more than a few hours working on this. It does not matter if you cannot complete all the requirements, please substitute code for comments/explanation where applicable.
+Please don't spend more than a few hours working on this. It does not matter if you cannot complete all the requirements, please substitute code for comments/explanation where applicable. If for some reason something doesn't work, don't worry too much about it but if you could let us know that would help!
